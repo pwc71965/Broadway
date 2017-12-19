@@ -1,0 +1,57 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.introduction {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.details {
+  font-size: 14px;
+}
+
+.madeInNY {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.bottomBanner {
+  background-color: dimgray;
+  text-align: left;
+}
+
+.botText {
+  font-size: 11px;
+  color: white;
+}
+
+ul {
+    list-style-type: none;
+    line-height: 25px;
+    margin: 0;
+    padding: 0;
+}
